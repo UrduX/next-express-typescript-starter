@@ -4,8 +4,8 @@
   "main": "server.js",
   "scripts": {
     "dev": "nodemon server.js --exec babel-node",
-    "start": "next start",
-    "build": "next build"
+    "start": "env NODE_ENV=production nodemon server.js --exec babel-node",
+    "build": "env NODE_ENV=production next build"
   },
   "dependencies": {
     "cors": "^2.8.5",
