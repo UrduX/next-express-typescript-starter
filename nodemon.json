@@ -5,7 +5,7 @@
   ],
   "watch": [
     "server/**/*",
-    "server.js"
+    "server.ts"
   ],
-  "ext": "js json"
+  "ext": "ts json"
 }
