@@ -1,4 +1,4 @@
-# Custom Express Server With Next (Includes Babel)
+# Custom Express Server With Next (Includes TypeScript)
 
 ### Installation
 
